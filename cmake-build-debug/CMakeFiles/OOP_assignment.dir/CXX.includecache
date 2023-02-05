@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/kolya/Siemens Software Deplome/OOP assignment/ecpriFrame.cpp
+ecpriFrame.h
+D:/kolya/Siemens Software Deplome/OOP assignment/ecpriFrame.h
+iostream
+-
+fstream
+-
+
+D:/kolya/Siemens Software Deplome/OOP assignment/ecpriFrame.h
+packets.h
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.h
+
+D:/kolya/Siemens Software Deplome/OOP assignment/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+packets.h
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.h
+ecpriFrame.h
+D:/kolya/Siemens Software Deplome/OOP assignment/ecpriFrame.h
+rawEthernet.h
+D:/kolya/Siemens Software Deplome/OOP assignment/rawEthernet.h
+
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.cpp
+packets.h
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.h
+iostream
+-
+string
+-
+fstream
+-
+
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.h
+string
+-
+
+D:/kolya/Siemens Software Deplome/OOP assignment/rawEthernet.cpp
+rawEthernet.h
+D:/kolya/Siemens Software Deplome/OOP assignment/rawEthernet.h
+iostream
+-
+fstream
+-
+
+D:/kolya/Siemens Software Deplome/OOP assignment/rawEthernet.h
+packets.h
+D:/kolya/Siemens Software Deplome/OOP assignment/packets.h
+
